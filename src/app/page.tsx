@@ -179,7 +179,7 @@ export default function Page() {
             cursor: 'pointer',
           }}
         >
-          📤 Upload & Start
+           Upload & Start
         </button>
 
         {showDownload && (
@@ -194,7 +194,7 @@ export default function Page() {
               cursor: 'pointer',
             }}
           >
-            📥 Download CSV
+           Download CSV
           </button>
         )}
       </div>
